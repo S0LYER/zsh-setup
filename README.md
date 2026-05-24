@@ -11,7 +11,7 @@ Ensure you have the following installed:
 
 ## Installation
 ``` bash
-git clone https://github.com/RomanLivik/zsh-setup.git
+git clone https://github.com/GadzhievAleksandr/zsh-setup
 cd zsh-setup
 g++ -std=c++17 zsh-setup.cpp -o zsh-setup
 ./zsh-setup
